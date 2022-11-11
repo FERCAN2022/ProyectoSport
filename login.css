@@ -1,0 +1,13 @@
+body {
+  background: #ffe259;
+  background: linear-gradient(to right, #ffa751, #ffe259)
+}
+
+.bg {
+  background-image: url(img/BG.jpg);
+  background-position: center center;
+}
+
+.hero {
+  height: 100vh;
+}
